@@ -1,0 +1,31 @@
+ {
+   "Happypath": {
+    "payment_url": "https://uat1-platba360.csast.csas.cz",
+    "shopid": "419483",
+    "amount": "11",
+    "varsymbol": "123",
+    "priority": "NORM",
+    "app_url": "http://deva-cdnint.csint.cz/applications/nw-launcher/platba360-launcher",
+    "sign":"5561d6ab41a2976b97ce03b5b138701a06ea1c93f3401a21279dac2d8406f3ec"
+    },
+
+   "NotEnoughMoney": {
+    "payment_url": "https://uat1-platba360.csast.csas.cz",
+    "shopid": "419483",
+    "amount": "999999",
+    "varsymbol": "123",
+    "priority": "NORM",
+    "app_url": "http://deva-cdnint.csint.cz/applications/nw-launcher/platba360-launcher",
+    "sign":"c61d535135d5584354f9d3926f7764a26427081c7800dadbf54e19a3071e477e"
+    },
+
+   "TwoAccounts": {
+    "payment_url": "https://uat1-platba360.csast.csas.cz",
+    "shopid": "419483",
+    "amount": "100000",
+    "varsymbol": "123",
+    "priority": "NORM",
+    "app_url": "http://deva-cdnint.csint.cz/applications/nw-launcher/platba360-launcher",
+    "sign":"6c4ae734eb6531367596c1b2b680cc81b4739fac3823777c754c1c5736174ba4"
+    }
+ }

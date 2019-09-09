@@ -1,0 +1,14 @@
+.idea
+/log.html
+/output.xml
+/report.html
+*.png
+Results/
+*.pyc
+jmeter.log
+/Results/*.*
+/Results/log.html
+data/accessToken.csv
+global-groovy.log
+soapui-errors.log
+soapui.log

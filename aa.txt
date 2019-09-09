@@ -1,0 +1,18 @@
+NultyParametr local_run.bat 
+PrnviParametr  
+Local date is [2019-03-02 20:17:22.105] 
+ Volume in drive C has no label.
+ Volume Serial Number is 74AD-2F1E
+
+ Directory of C:\_git\GIT_JENKINS
+
+02.03.2019  20:16    <DIR>          .
+02.03.2019  20:16    <DIR>          ..
+05.11.2018  14:11                75 .gitignore
+02.03.2019  20:17                89 aa.txt
+19.02.2019  22:12    <DIR>          common
+02.03.2019  20:17               375 local_run.bat
+19.02.2019  22:11    <DIR>          results
+19.02.2019  22:11    <DIR>          rf
+               3 File(s)            539 bytes
+               5 Dir(s)  435ÿ709ÿ063ÿ168 bytes free
